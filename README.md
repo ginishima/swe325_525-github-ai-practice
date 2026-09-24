@@ -1,1 +1,1 @@
-# swe325_525-github-ai-practice
+This is a repo made for the SWE 325 class being taken by studen Gaige Szymanski. (name tentative)
